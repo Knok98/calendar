@@ -1,0 +1,16 @@
+﻿Calendar v1.exe (Win32): Načteno C:\Visual Studio\Calendar v1\x64\Debug\Calendar v1.exe. Symboly byly načteny.
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\ntdll.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\kernel32.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\KernelBase.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\msvcp140d.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\vcruntime140d.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\vcruntime140_1d.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\ucrtbased.dll. 
+Vlákno 0x2d58 skončilo s kódem 0 (0x0).
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\sechost.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\rpcrt4.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\kernel.appcore.dll. 
+Calendar v1.exe (Win32): Načteno C:\Windows\System32\msvcrt.dll. 
+Vlákno 0x51b8 skončilo s kódem 0 (0x0).
+Vlákno 0x2714 skončilo s kódem 0 (0x0).
+Program '[11476] Calendar v1.exe' skončil s kódem 0 (0x0).
